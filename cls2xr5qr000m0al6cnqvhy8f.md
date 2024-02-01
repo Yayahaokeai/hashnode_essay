@@ -3,6 +3,7 @@ title: "简单数据结构"
 datePublished: Thu Feb 01 2024 08:09:38 GMT+0000 (Coordinated Universal Time)
 cuid: cls2xr5qr000m0al6cnqvhy8f
 slug: 566a5y2v5pww5o2u57ut5p6e
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706775232080/b309095c-72ad-4aca-9ebf-02107034fbe9.jpeg
 
 ---
 
