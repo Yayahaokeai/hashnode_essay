@@ -1,5 +1,5 @@
 ---
-title: "基础算法（正在积累）"
+title: "基础的小算法"
 seoTitle: "基础算法"
 seoDescription: "基础算法"
 datePublished: Tue Jan 30 2024 13:09:37 GMT+0000 (Coordinated Universal Time)
